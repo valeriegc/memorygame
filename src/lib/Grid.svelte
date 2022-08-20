@@ -40,7 +40,7 @@
 <div class="grid">
 	{#each cards as card, i}
 		<div on:click={() => cardOpen(i)}>
-			<Card cardActive={card.open} />
+			<Card {card} />
 		</div>
 	{/each}
 </div>
