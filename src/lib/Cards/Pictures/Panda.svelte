@@ -22,11 +22,11 @@
 	.Head {
 		height: 60px;
 		width: 60px;
-		border: solid black 1px;
+		border: solid black 4px;
 		border-radius: 100%;
 		background-color: white;
 		position: absolute;
-		left: 30px;
+		left: 27px;
 		top: 10px;
 	}
 	.ear {
@@ -41,25 +41,25 @@
 		left: 70px;
 	}
 	.trunk {
-		height: 60px;
-		width: 50px;
-		border: solid 10px black;
+		height: 70px;
+		width: 60px;
+		border: solid 4px black;
 		border-radius: 50%;
 		background-color: white;
 		position: absolute;
-		left: 27px;
+		left: 30px;
 		top: 50px;
 	}
 	.hand {
-		height: 30px;
-		width: 30px;
+		height: 20px;
+		width: 20px;
 		background: white;
 		position: absolute;
 		border-radius: 100%;
 		z-index: 1;
 		top: 60px;
-		left: 18px;
-		border: solid black 1px;
+		left: 20px;
+		border: solid black 4px;
 	}
 	#hand2 {
 		left: 76px;
