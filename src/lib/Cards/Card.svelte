@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Backside from './Backside.svelte';
 	import Frontside from './Frontside.svelte';
-	import Cat from './Pictures/Cat.svelte';
+	import Pig from './Pictures/Pig.svelte';
 	import Dog from './Pictures/Dog.svelte';
 	import Panda from './Pictures/Panda.svelte';
 	import Horse from './Pictures/Horse.svelte';
@@ -29,7 +29,7 @@
 		Sheep,
 		Rabbit,
 		Whale,
-		Cat,
+		Pig,
 		Penguin,
 		Monkey,
 		Fish,
